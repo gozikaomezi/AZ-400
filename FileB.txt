@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is fileB
+=======
+This is FileB 
+Let's make a change
+>>>>>>> 5833e938c59ae5f660196bebc76014ac4a5328dd

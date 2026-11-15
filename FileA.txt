@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is fileA
 This is a change to the file
+=======
+This is FileA
+This is a change to file
+>>>>>>> 5833e938c59ae5f660196bebc76014ac4a5328dd
